@@ -1,0 +1,30 @@
+from chaitanya import require as req
+arr = [i**b for i in range(a)]
+while  a < b  :
+b = a
+ INDENT for ( k in arr ) :
+ INDENT while  c < b  : 
+ INDENT c = a
+for i in range(x , b) :
+ INDENT c = d
+if (5 == 3):
+ INDENT b = 5
+ DEDENT elif 5 < 3 :
+ INDENT b =  4
+ DEDENT else :
+ INDENT c =  5
+ DEDENT  DEDENT  DEDENT  DEDENT  DEDENT def foo( a , b ) :
+ INDENT print( a )
+return b
+ DEDENT class dog:
+ INDENT def height():
+ INDENT return height
+ DEDENT def weight():
+ INDENT return weight
+ DEDENT  DEDENT def myInput(x, y) :
+ INDENT if x < 3 :
+ INDENT i = x
+ DEDENT elif x < 5 :
+ INDENT i = y
+ DEDENT return i
+ DEDENT 
